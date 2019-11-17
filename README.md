@@ -32,7 +32,7 @@ Es es un ~~Texto~~ tachado
 
 [google.com](https://wwww.google.com)
 
-[google.com](https://wwww.google.com "Link personalizado")
+[Markdown Cheatshets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Link personalizado")
 
 > esto es una cita
 
